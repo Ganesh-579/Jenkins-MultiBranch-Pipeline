@@ -6,3 +6,4 @@ def right_angle_triangle(n):
 right_angle_triangle(5)
 Print("hello world!)
 print("cummins")
+print("Hello")
